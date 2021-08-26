@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Helloagain changes
+=======
+some changes
+>>>>>>> BRANCH3
 =======
 some changes
 >>>>>>> BRANCH3
